@@ -60,7 +60,7 @@ The `FirmwareAnalyzer` code is designed to analyze firmware images (.bin files) 
 ### **Example Usage**
 
 ```bash
-python analyzed.py /path/to/firmware.bin --yararules ./yara_rules
+python3 analyzed.py /path/to/firmware.bin --yararules ./yara_rules
 ```
 
 - **Input**: Firmware file (.bin) and optional YARA rules directory.
