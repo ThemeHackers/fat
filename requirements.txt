@@ -1,0 +1,5 @@
+yara-python
+requests
+tqdm
+colorama
+
